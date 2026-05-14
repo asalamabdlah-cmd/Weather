@@ -1,0 +1,8 @@
+{
+  "name": "Minimalist Weather",
+  "description": "A high-contrast, monochrome weather application focusing on precision data visualization and minimalist design.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
